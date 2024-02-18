@@ -1,4 +1,4 @@
-Cat Code Blog
+<h1>Cat Code Blog</h1>
 
 ¡Bienvenido a nuestro espacio dedicado al fascinante mundo del desarrollo web! Aquí encontrarás información detallada y actualizada sobre las tecnologías más relevantes tanto en el front end como en el back end, que están transformando la manera en que interactuamos con la web y construimos aplicaciones increíbles.
 
